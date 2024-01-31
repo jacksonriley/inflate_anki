@@ -849,7 +849,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "inflate"
+name = "inflate_anki"
 version = "0.1.0"
 dependencies = [
  "anyhow",
