@@ -16,7 +16,7 @@ To use this:
 1. Export your deck in .apkg form (remember to tick the boxes that asks if you want to include scheduling information and media)
 2. Run this program on it - by default this will produce `out.apkg`.
 3. Delete your original deck (don't worry, if I've messed up you can always re-import your deck that you exported).
-4. Export `out.apkg`
+4. Import `out.apkg`
 5. If you want to take advantage of the tone tags, [add some CSS](https://docs.ankiweb.net/templates/styling.html) - for e.g. something like
 ```css
 .tone1 {color: #00e304;}
