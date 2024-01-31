@@ -9,6 +9,7 @@ edition = "2021"
 anyhow = "1.0.79"
 cjk = "0.2.5"
 clap = { version = "4.4.18", features = ["derive"] }
-sqlite = "0.32.0"
+rusqlite = "0.25.0" # Needed to be compatible with the upstream genanki-rs v0.4.0 
 tempfile = "3.9.0"
 zip = "0.6.6"
+zw_to_anki = { git = "https://github.com/jacksonriley/zw_to_anki" }
